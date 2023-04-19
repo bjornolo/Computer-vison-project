@@ -4,7 +4,7 @@ from ultralytics import YOLO
 import cv2
 
 
-VIDEOS_DIR = os.path.join('.', 'videos')
+VIDEOS_DIR = os.path.join(r'E:\Lofty\Documents\TDT4265\videos')
 
 
 video_path = os.path.join(VIDEOS_DIR, 'tdt4265_video1.mp4')
@@ -23,7 +23,7 @@ model = YOLO(model_path)  # load a custom model
 
 threshold = 0.5
 
-class_name_dict = {0: 'alpaca'}
+class_name_dict = {0: 'D00', 1: 'D10', 2: 'D20', 3: 'D40'}
 
 while ret:
 
