@@ -57,7 +57,8 @@ for fil in files:
         if label not in classes:
             classes.append(label)
         index = classes.index(label)
-        pil_bbox = [int(x.text) for x in obj.find("bndbox")]
+        #pil_bbox = [int(x.text) for x in obj.find("bndbox")]
+        pil_bbox = [int(float(x.text)) for x in obj.find("bndbox")]
         yolo_bbox = xml_to_yolo_bbox(pil_bbox, width, height)
         # convert data to string
         bbox_string = " ".join([str(x) for x in yolo_bbox])
