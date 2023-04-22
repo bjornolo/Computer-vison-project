@@ -1,4 +1,4 @@
-path: E:/Lofty/Documents/TDT4265/Data/United_States/train
+path: E:/Lofty/Documents/TDT4265/Data/Combined
 train: train/images
 val: val/images
 

@@ -20,8 +20,8 @@ def draw_image(img, bboxes):
     img.show()
 
 
-image_filename = r"Data\Norway\train\images\Norway_000100.jpg"
-label_filename = r"Data\Norway\train\labels\Norway_000100.txt"
+image_filename = r"E:\Lofty\Documents\TDT4265\Data\Combined\test\images\Norway_000005.jpg"
+label_filename = r"E:\Lofty\Documents\TDT4265\Data\Combined\test\labels\Norway_000005.txt"
 bboxes = []
 
 img = Image.open(image_filename)
