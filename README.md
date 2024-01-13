@@ -22,7 +22,7 @@ Trained on the YOLOv8 medium model
 
 ## Result
 
-[![Project Video](https://imgur.com/a/B21XmU3)](https://youtu.be/LwRqFRWlxNY)
+[![Project Video](https://i.imgur.com/5GA6EMh.png)](https://youtu.be/LwRqFRWlxNY)
 
 ![result1](./runs/detect/val/val_batch0_labels.jpg)
 
