@@ -10,7 +10,7 @@ Project for computer vision. Road damage detection and labeling.
 - [Result](#Result)
 
 ## Dataset
-![Training](./training.png)
+
 
 ## Model
 
