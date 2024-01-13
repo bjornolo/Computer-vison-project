@@ -4,20 +4,22 @@ Project for computer vision. Road damage detection and labeling.
 
 
 ## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Dataset](#Dataset)
+- [Model](#Model)
+- [Training](#Training)
+- [Result](#Result)
 
-## Features
+## Dataset
 ![Training](./training.png)
-List the key features of your project.
 
-## Installation
+## Model
 
-Provide instructions on how to install your project. Include any dependencies and how to set up the environment.
+## Training
+
+![Training](./training.png)
+
+## Result
 
 ```bash
 # Example installation commands
-npm install
+
