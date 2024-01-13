@@ -20,7 +20,7 @@ Project for computer vision. Road damage detection and labeling.
 
 ## Result
 
-[![Project Video](https://www.youtube.com/watch?v=m9fH9OWn8YM)](https://www.youtube.com/watch?v=m9fH9OWn8YM)
+[![Project Video](https://img.youtube.com/watch?v=m9fH9OWn8YM/0.jpg)](https://www.youtube.com/watch?v=m9fH9OWn8YM)
 
 ```bash
 # Example 
