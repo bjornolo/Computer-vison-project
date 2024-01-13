@@ -24,9 +24,9 @@ Trained on the YOLOv8 medium model
 
 [![Project Video](https://i.imgur.com/5GA6EMh.png)](https://youtu.be/LwRqFRWlxNY)
 
-![result](./runs/detect/val/F1_curve.png)
-
 ![result1](./runs/detect/val/val_batch0_labels.jpg)
+
+![result](./runs/detect/val/F1_curve.png)
 
 ![result2](./runs/detect/val/PR_curve.png)
 
