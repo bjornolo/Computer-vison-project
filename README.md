@@ -1,4 +1,4 @@
-# Computer vision-project
+# Computer vision project
 Project for computer vision. Road damage detection and labeling.
 
 
@@ -11,7 +11,7 @@ Project for computer vision. Road damage detection and labeling.
 - [License](#license)
 
 ## Features
-
+![Training](./training.png)
 List the key features of your project.
 
 ## Installation
