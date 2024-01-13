@@ -24,8 +24,10 @@ Trained on the YOLOv8 medium model
 
 [![Project Video](https://i.imgur.com/5GA6EMh.png)](https://youtu.be/LwRqFRWlxNY)
 
+![result](./runs/detect/val/F1_curve.png)
+
 ![result1](./runs/detect/val/val_batch0_labels.jpg)
 
-```bash
-# Example 
+![result2](./runs/detect/val/PR_curve.png)
 
+![result3](./runs/detect/val/P_curve.png)
