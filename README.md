@@ -22,6 +22,7 @@ Trained on the YOLOv8 medium model
 
 ## Result
 
+Video of inference, click image for link.
 [![Project Video](https://i.imgur.com/5GA6EMh.png)](https://youtu.be/LwRqFRWlxNY)
 
 ![result1](./runs/detect/val/val_batch0_labels.jpg)
